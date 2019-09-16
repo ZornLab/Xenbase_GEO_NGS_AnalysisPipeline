@@ -62,7 +62,7 @@ Notes:
 
 ################# Required Inputs
 1) RunFile : Runfile is required for execution of the pipeline. There are 16 columns in the file. GENOME||SPECIES||GSE||TREATMENT||CONTROL||BIGWIG||SRR_TREATMENT||SRR_CONTROL||LIBRARYLAYOUT||ASSAYTYPE||TRACKNAME||XB_ART_ID||PUBMED_ID||BIN_ID||CTRL_BIN_ID||GSE_TITLE
-   Example Runfile is provided along with the pipeline. Technical replicates are separated with underscore (_)
+   Example Runfile is provided along with the pipeline. Technical replicates are separated with underscore (_). For colums which you don't have information please fill with "NULL".
    
 2) Output Directory : Please provide the name of the output folder along with the path. For example: Lets say the name of the folder is Outs then input is : /Users/xxx/Desktop/Xenbase_GEO_NGS_AnalysisPipeline/Outs
 
