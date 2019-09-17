@@ -1,5 +1,5 @@
 ########### Script is part of Xenbase Public data processing pipeline ########
-########### Version 1.4 (Changes to Paired End File Format and now handles technical reps and bug fixes) ######################################################
+########### Version 1.5 (Changes to Paired End File Format and now handles technical reps and bug fixes) ######################################################
 print "Create CSBB Run\-Info files per GSE\n";
 print "Developed by Praneet Chaturvedi\n";
 sleep(1);
